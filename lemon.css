@@ -1,0 +1,32 @@
+body {
+    background-color: gainsboro;
+}
+h1 {
+    text-align: center;
+} 
+p {
+    text-align: center;
+}
+div {
+    margin-left: 100px;
+    font-size: 20pt;
+
+}
+.text {
+    margin-left: 100px;
+    font-size: 15pt;
+    margin-right: 100px;
+}
+.photo {
+    text-align: center;
+margin-right: 100px;
+}
+.text2 {
+    margin-left: 100px;
+    font-size: 15pt;
+    margin-right: 100px;
+}
+.photo2  {
+    text-align: center;
+margin-right: 100px;
+}
