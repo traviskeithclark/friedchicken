@@ -1,0 +1,11 @@
+body {
+    background-color: lightslategray;
+} 
+
+.movies {
+    padding-right: 10px;
+}
+
+p {
+    font-size: 15px;
+}
