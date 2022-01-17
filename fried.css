@@ -1,0 +1,21 @@
+body {
+    background-color: lightslategray;
+} 
+h1 {
+    text-align: center;
+}
+p {
+    font-size: 18pt;
+}
+.fried {
+    height:600px;
+}
+.fried2 {
+    height: 800px;
+}
+.fried3 {
+    height: 700px;
+}
+.fried4 {
+    height: 610px;
+}
